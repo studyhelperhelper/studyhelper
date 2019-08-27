@@ -3,6 +3,8 @@
 1.实现自动学习35分，完成挑战答题，文章阅读时间、视频观看时间等自动功能。<br>
 2.安全第一，效率第二。<br>
 3.安卓手机应用，估计市场上不去。<br>
+<a href="studyhelper.apk">apk下载地址</a><br/>
+<a href="studyhelper.rar">apk压缩包下载地址</a><br/>
 
 
 <p align="center">
