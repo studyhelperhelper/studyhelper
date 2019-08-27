@@ -26,4 +26,3 @@
 3.自动学习过程中请不要点击屏幕。<br>
 4.找个空闲时间点一下按钮，轻松完成学习任务。<br>
 5.个人爱好，没有收益，纯玩。
-<embed src="studyhelpervedio.mp4" width="500" height="1000">
