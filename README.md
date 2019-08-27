@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img width=32% alt="wx20170601-170002 2x" src="https://user-images.githubusercontent.com/9360037/48965804-0a1a6100-efff-11e8-8ae8-00baa290b088.png"> <img width=32% alt="wx20170601-170002 2x" src="https://user-images.githubusercontent.com/9360037/48965802-0a1a6100-efff-11e8-8d56-54cb2a17bdd9.png"> <img width=32% alt="wx20170601-170002 2x" src="https://user-images.githubusercontent.com/9360037/48965844-ea376d00-efff-11e8-8802-6f48680ee78a.png">
+<img width=32% alt="wx20170601-170002 2x" src="slt001.jpg"> <img width=32% alt="wx20170601-170002 2x" src="https://user-images.githubusercontent.com/9360037/48965802-0a1a6100-efff-11e8-8d56-54cb2a17bdd9.png"> <img width=32% alt="wx20170601-170002 2x" src="https://user-images.githubusercontent.com/9360037/48965844-ea376d00-efff-11e8-8802-6f48680ee78a.png">
 </p>
 
 学习强国提供了很多有用的视频资料，在学习过程中受益匪浅，为了提高学习效率，解放双手，自己编制了这个助手程序。单纯模拟屏幕点击，不存在违规风险。作者准备在此基础上另行开发类似“按键精灵的软件”，此为后话。
