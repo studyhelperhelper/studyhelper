@@ -8,4 +8,5 @@
 找到原因了，原来总是答错题不是题库的问题，修正了以下流程。<br>
 由于原来长时间错误储存题库，可能目前题库中的错题比较多。解决方案一：安装新版本之前，将根目录下com.study.helper文件夹删除，再安装。方案二：正常更新安装，随着时间由程序自己纠正题库中的错误。<br>
 
-<a href="https://raw.githubusercontent.com/studyhelperhelper/studyhelper/master/tiku.db">题库下载地址</a><br/>
+<a href="https://raw.githubusercontent.com/studyhelperhelper/studyhelper/master/tiku.db">最新题库下载地址</a><br/>
+题库下载后放到手机跟目录com.study.helper文件夹下。将原来的所有文件删除，在复制过去。
