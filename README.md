@@ -1,9 +1,9 @@
 # 学习助手  数独
 不扩散，仅作更新服务器使用。<br>
-<a href="https://raw.githubusercontent.com/studyhelperhelper/studyhelper/master/learningsudoku1.2.36.0-3.apk">apk下载地址</a><br/>
-<a href="https://raw.githubusercontent.com/studyhelperhelper/studyhelper/master/learningsudoku1.2.36.0-3.rar">apk压缩包下载地址</a><br/>
+<a href="https://raw.githubusercontent.com/studyhelperhelper/studyhelper/master/learningsudoku1.2.37.0-1.apk">apk下载地址</a><br/>
+<a href="https://raw.githubusercontent.com/studyhelperhelper/studyhelper/master/learningsudoku1.2.37.0-1.rar">apk压缩包下载地址</a><br/>
 <br>
-2022年5月1日更新：<br>1.适配学习强国V2.36.0<br>2.将学习强国助手放到了数独游戏的隐藏功能里面。<br>3.修复bug，右上角增加关闭按钮，防止不能终止学习的情况，接听电话或需要用手机的时候先点击右上角叉号，关闭学习。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机跟目录下apk文件夹中。<br>
+2022年5月24日更新：<br>1.适配学习强国V2.37.0<br>2.将学习强国助手放到了数独游戏的隐藏功能里面。<br>3.修复bug，右上角增加关闭按钮，防止不能终止学习的情况，接听电话或需要用手机的时候先点击右上角叉号，关闭学习。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机跟目录下apk文件夹中。<br>
 
 # 使用说明
 这是一个伪装成数独游戏的学习强国助手。<br>
@@ -11,8 +11,8 @@
 助手基于辅助服务设计，但是由于强国不断更新，屏蔽了四人赛和双人赛的辅助服务，所以这两个项目使用OCR。<br>
 点击隐藏功能后，会要求屏幕截取授权，是为了截屏识别题目使用，请给予权限。<br>
 经过测试新手机OCR速度还是相当快的，我用的是荣耀50pro,基本每次都可以得满分，我测试了一台旧手机华为的mate7，OCR速度慢。<br>
-新手机可以保证每天46分，大家可以反馈以下哪些机型基本每天能够满分，我更新到这里：荣耀50pro。<br>
-这里提两点建议，实在是用的老旧手机可以在设置里关闭 四人对战  和双人对战  开关。保证每天39分。<br>
+新手机可以保证每天42分，大家可以反馈以下哪些机型基本每天能够满分，我更新到这里：荣耀50pro。<br>
+这里提两点建议，实在是用的老旧手机可以在设置里关闭 四人对战  和双人对战  开关。<br>
 旧手机适当增加 设置中"两题间隔延时时间"，我将默认设置为1000毫秒了，如果还是不能正常运行可以再增加点试试，但是这样得第一的可能性就小。<br>
 不过不得第一也有分数可得。<br>
 新手机可以将"两题间隔延时时间"设置到1000毫秒不动，也可以自己调整一下试试。<br>
