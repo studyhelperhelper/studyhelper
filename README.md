@@ -3,7 +3,7 @@
 由于发布版本增大，请到release中下载。<br>
 
 
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.4.0-1.apk
+https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.43.0-1.apk
 <br>
 <br>
 <br>
