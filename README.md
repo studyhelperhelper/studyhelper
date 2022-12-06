@@ -3,14 +3,14 @@
 由于发布版本增大，请到release中下载。<br>
 
 
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.37.0-2.apk
+https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.4.0-1.apk
 <br>
 <br>
 <br>
 <br>
-<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.37.0-2.apk">apk下载地址</a><br/>
+<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.43.0-1.apk">apk下载地址</a><br/>
 <br>
-2022年6月1日更新：<br>1.适配学习强国V2.37.0，修复app中检测更新的地址，适配新的分数。<br>2.将学习强国助手放到了数独游戏的隐藏功能里面。<br>3.修复bug，右上角增加关闭按钮，防止不能终止学习的情况，接听电话或需要用手机的时候先点击右上角叉号，关闭学习。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机跟目录下apk文件夹中。<br>
+2022年6月1日更新：<br>1.适配学习强国V2.43.0，尽量使用2.43.0以下版本。<br>2.将学习强国助手放到了数独游戏的隐藏功能里面。<br>3.修复bug，右上角增加关闭按钮，防止不能终止学习的情况，接听电话或需要用手机的时候先点击右上角叉号，关闭学习。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机跟目录下apk文件夹中。<br>
 
 # 使用说明
 这是一个伪装成数独游戏的学习强国助手。<br>
