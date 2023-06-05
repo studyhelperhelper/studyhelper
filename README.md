@@ -3,14 +3,14 @@
 由于发布版本增大，请到release中下载。<br>
 
 
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-2.apk
+https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-3.apk
 <br>
 <br>
 <br>
 <br>
-<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-2.apk">apk下载地址</a><br/>
+<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-3.apk">apk下载地址</a><br/>
 <br>
-2023年6月4日更新：<br>1.适配学习强国V2.46.0，适应新规制趣味答题。<br>2.尝试加入广告。<br>3.请卸载重新安装。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机跟目录下apk文件夹中。<br>
+2023年6月4日更新：<br>1.适配学习强国V2.46.0，适应新规制趣味答题,修订bug，挑战答题、双人、四人三个选一个答题，趣味答题只答当天的题型。<br>2.尝试加入广告。<br>3.请卸载重新安装。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机跟目录下apk文件夹中。<br>
 
 # 使用说明
 这是一个伪装成数独游戏的学习强国助手。<br>
