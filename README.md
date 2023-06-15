@@ -1,12 +1,7 @@
-# 学习助手  数独
-不扩散，仅作更新服务器使用。<br>
-由于发布版本增大，请到release中下载。<br>
+# 学习助手  学习强国  刷分  数独
 
-
+点击下面链接下载。<br>
 https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-5.apk
-<br>
-<br>
-<br>
 <br>
 <a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-5.apk">apk下载地址</a><br/>
 <br>
