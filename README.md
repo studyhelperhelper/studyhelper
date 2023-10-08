@@ -1,11 +1,11 @@
 # 学习助手  学习强国  刷分  数独
 
 点击下面链接下载。<br>
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-6.apk
+https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.50.0-1.apk
 <br>
-<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.46.0-6.apk">apk下载地址</a><br/>
+<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.50.0-1.apk">apk下载地址</a><br/>
 <br>
-2023年6月16日更新：<br>1.更新了数独，适配学习强国V2.46.0，适应新规制趣味答题,修订bug，挑战答题、双人、四人三个选一个答题，趣味答题只答当天的题型。<br>2.修正了安装后第一次启动卡死的问题，更新了识别，识别速度更快,修正识别出错问题。<br>3.请卸载重新安装。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机根目录下apk文件夹中。<br>
+2023年10月9日更新：<br>1.更新了数独，适配学习强国V2.50.0，修订bug，更新了部分题库，请删除原app后再安装新的才能更新题库，先测试一下，过几天再更新一次。<br>2.修正了安装后第一次启动卡死的问题，更新了识别，识别速度更快,修正识别出错问题。<br>3.请卸载重新安装。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机根目录下apk文件夹中。<br>
 
 # 使用说明
 这是一个伪装成数独游戏的学习强国助手。<br>
