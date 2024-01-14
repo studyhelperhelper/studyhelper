@@ -1,19 +1,13 @@
 # 学习助手  学习强国  刷分  数独
 
 点击下面链接下载。<br>
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.50.0-2.apk
+https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.53.0-1.apk
 <br>
-<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.50.0-2.apk">apk下载地址</a><br/>
+<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.53.0-1.apk">apk下载地址</a><br/>
 <br>
-2023年10月11日更新：<br>1.更新了数独，适配学习强国V2.50.0，修订bug，更新了部分题库，请删除原app后再安装新的才能更新题库。双人和四人答题无解了。<br>2.修正了安装后第一次启动卡死的问题，更新了识别，识别速度更快,修正识别出错问题。<br>3.请卸载重新安装。<br>4.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机根目录下apk文件夹中。<br>
+2024年1月14日更新：<br>1.大幅减少广告，适配学习强国V2.53.0，修订bug，更新了部分题库，请删除原app后再安装新的才能更新题库。<br>2.请卸载重新安装。<br>3.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机根目录下apk文件夹中。<br>
 
-# 虚拟机运行教程
-由于强国限制了截屏，测试在虚拟机中运行学习强国和本app。通过root虚拟机，去除学习强国截屏限制，可以实现正确答题。<br>
 
-点击下面链接，可以下载破解版的vmos pro 虚拟机。<br>https://www.123pan.com/s/P6oDVv-OaxsA.html
-<br>
-不怕麻烦的小伙伴可以测试一下，不在乎这2分的可以忽略。
-<br>
 # 使用说明
 这是一个伪装成数独游戏的学习强国助手。<br>
 助手藏在数独游戏的最后一个按钮“隐藏功能”里面，点击隐藏功能播放广告获得奖励后打开学习强国助手主界面，如下图。<br>
@@ -56,3 +50,12 @@ https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learni
 <div align="center">
     <img src="./img/19.jpg" width="200">    <img src="./img/20.jpg" width="200">    <img src="./img/21.jpg" width="200">    <img src="./img/22.jpg" width="200">    <img src="./img/23.jpg" width="200">    <img src="./img/24.jpg" width="200"><img src="./img/25.jpg" width="200"><img src="./img/26.jpg" width="200"><img src="./img/27.jpg" width="200"><img src="./img/28.jpg" width="200">
 </div>
+
+<br>
+# 虚拟机运行教程
+由于强国限制了截屏，测试在虚拟机中运行学习强国和本app。通过root虚拟机，去除学习强国截屏限制，可以实现正确答题。<br>
+
+点击下面链接，可以下载破解版的vmos pro 虚拟机。<br>https://www.123pan.com/s/P6oDVv-OaxsA.html
+<br>
+不怕麻烦的小伙伴可以测试一下，不在乎这2分的可以忽略。
+<br>
