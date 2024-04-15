@@ -1,11 +1,11 @@
 # 学习助手  学习强国  刷分  数独
 
 点击下面链接下载。<br>
-https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.54.0-1.apk
+https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.55.1-1.apk
 <br>
-<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.54.0-1.apk">apk下载地址</a><br/>
+<a href="https://github.com/studyhelperhelper/studyhelper/releases/download/latest/learningsudoku1.2.55.1-1.apk">apk下载地址</a><br/>
 <br>
-2024年2月26日更新：<br>1.修改广告加载不成功无法进入助手的情况，适配学习强国V2.54.0，修订bug，更新了部分题库，请删除原app后再安装新的才能更新题库。<br>2.请卸载重新安装。<br>3.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机根目录下apk文件夹中。<br>
+2024年4月16日更新：<br>1.适配学习强国V2.55.0，修订bug，更新了部分题库，请删除原app后再安装新的才能更新题库。<br>2.请卸载重新安装。<br>3.为更新最新题库，请先卸载原APP再安装新版本。若在APP内下载，下载目录在手机根目录下apk文件夹中。<br>
 
 
 # 使用说明
